@@ -1,1 +1,146 @@
-# trituongwildwestbioinformatics
+# bioinfoport
+
+## PREFACE
+Tri Tuong's place of data.
+
+Hi, I know no one is going to be reading this but if you are, I hope you will come along with me on this journey of mine into the deep sea, the big bad wildwest that is called **bioinformatics**. 
+
+I would be lying if I said I didn't have experience up to this point, but seeing that the book I'm following is for graduate students. Yikes! 
+
+Following https://www.biostarhandbook.com/fast/ and will be documenting my (hopefully) own personal projects here. I will try to follow the coursework (at least somewhat). Assignments might be missing some of the presentation. 
+
+Start Date: 4/17/2026
+
+Thank you very much, and I also hope future me will look back not with disdain of the bad and spaghetti code! 
+
+![description](main_readme_image/Trametes.png)
+
+*unrelated picture from an unrelated project*
+
+
+## Project Overview
+
+## TOOLBOXES 
+
+Access via ```https://github.com/ialbert/bio``` in the run section. 
+
+---
+
+## Week 1
+
+### 1. Reports
+- [Report 1](week1/README_report_1.md)
+- [Report 2](week1/README_report_2.md)
+
+### 2. Theory
+- [Genomic Data Source](week1/GENOMIC_DATA_SOURCE.md)
+- [Notes](week1/notes.txt)
+
+### 3. Templates
+- *TBD*
+
+---
+
+## Week 2
+
+### 1. Reports
+- [Report 3](week2/README_report_3.md)
+- [Report 4](week2/README_report_4.md)
+
+### 2. Theory
+- [Sequencing and FASTQ](week2/SEQUENCING_AND_FASTQ.md)
+
+### 3. Templates
+- *TBD qc tools and trimming*
+
+---
+
+## Week 3
+
+### 0. HIGHLIGHT
+
+![alt text](week3/image-9.png)
+
+The generation of this photo took 3 hours of alignment and a lot more trying to debug whatever bug happened up and downstream. 
+
+### 1. Reports
+- [Report 5](week3/README_report_5.md)
+- [Report 6](week3/README_report_6.md)
+- [Report 7](week3/README_report_7.md) + [data](week3/design.csv) + [results](week3/results.txt)
+
+### 2. Theory
+- [Scripting](week3/scripting.md)
+- [Vibecoding](week3/vibecoding.md)
+- [The wiggle format](week3/wiggle.md)
+- [Re: about .bam files](week3/bam.md)
+- [Toolbox?](week3/toolbox.md)
+
+
+
+### 3. Templates
+- [BWA Alignment](week3/bwa_alignment_template.sh)
+- [Bowtie Alignment](week3/bowtie_alignment_template.sh)
+- [Minimap2 Alignment](week3/minimap2_alignment_template.sh)
+- [Example Template](week3/example_template.sh)
+- [Makefile Template](week3/makefile_template)
+- [Makefile for alignment](week3/Makefile)
+- [Biostar Makefile template](week3/working_template_make)
+- [Convert to bedgraph template](week3/bigwig_template.sh)
+- [Coverage template](week3/coverage_template.sh)
+- [Example bam template](week3/example_bam_template.sh)
+- **[IMPROVED MAKEFILE](week3/Makefile_2.mk)**
+- **[MORE IMPROVED MAKEFILE](week3/Makefile_3.mk)**
+
+## Week 4
+
+- **[REPORT 8](week4/README_report8.md)**
+- [NEW MAKE](week4/Makefile_4.mk)
+
+## Week 5
+
+- [Report 9](week5/README_REPORT9.md)
+- [VCF MAKE](week5/vcf.mk)
+- [VEP](week4/veper.mk)
+
+### HIGHLIGHT
+
+![alt text](image.png)
+
+
+## README REPORTS 
+- [10](week67891011/README_REPORT_10.md)
+
+### 12 - RNA-SEQ
+- [RNA-SEQ-README](week12_rnaseq/RNA_SEQ_README.md)
+- [RNA-SEQ-MAKEFILE](week12_rnaseq/rnaseq.mk)
+
+### 13 - RNA-SEQ-2-PLOTS
+- [RNA-SEQ-2-README](week13_diffex/RNA-SEQ-2.md)
+- [RNA-SEQ-2-MAKEFILE](week12_rnaseq/rnaseq2.mk)
+
+Highlight
+![alt text](image-1.png)
+
+## PROGRESS BAR
+
+- [x] 1. Introduction to the course
+- [x] 2. The Unix command line  
+  - [x] ⭐ How to solve it
+- [x] 3. Genomic Data Visualization
+- [x] 4. Genomic Data Sources
+- [x] 5. Sequencing and FASTQ  
+  - [x] ⭐ AI-Powered Scripting
+- [x] 6. Short Read Alignments  
+  - [x] ⭐ AI-Powered Makefiles
+- [x] 7. Binary Alignment Map (BAM)  
+  - [x] ⭐ Bioinformatics Toolbox  
+  - [x] ⭐ Toolbox Documentation
+- [x] 8. Automation and Design Files
+- [x] ⭐ Assignment 8 Review
+- [x] 9. Variant Calling and VCF
+- [x] 10. Variant Effect Prediction
+- [x] 11. Evaluating cancer variants (SEMI DONE)
+  - [x] ⭐ Code: Genome in a Bottle (SEMI DONE)
+- [x] 12. Introduction to RNA-Seq
+- [x] 13. RNA-Seq differential expression
+- [ ] 14. Gene Ontologies and Functional Enrichment
