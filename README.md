@@ -1,6 +1,8 @@
 # bioinfoport
 
 ## PREFACE
+UPDATE 10/24/26: Repo cleaning for better navigation
+
 Tri Tuong's place of data.
 
 Hi, I know no one is going to be reading this but if you are, I hope you will come along with me on this journey of mine into the deep sea, the big bad wildwest that is called **bioinformatics**. 
